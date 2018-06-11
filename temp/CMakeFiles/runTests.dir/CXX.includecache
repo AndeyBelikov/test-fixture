@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrey/dev/testFixture/tests.cpp
+whattotest.h
+/home/andrey/dev/testFixture/whattotest.h
+gtest/gtest.h
+-
+string
+-
+iostream
+-
+regex
+-
+
+/home/andrey/dev/testFixture/whattotest.cpp
+whattotest.h
+/home/andrey/dev/testFixture/whattotest.h
+
+/home/andrey/dev/testFixture/whattotest.h
+stdio.h
+-
+string
+-
+iostream
+-
+

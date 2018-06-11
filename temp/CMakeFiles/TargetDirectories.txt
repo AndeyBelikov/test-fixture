@@ -1,0 +1,4 @@
+/home/andrey/dev/testFixture/temp/CMakeFiles/edit_cache.dir
+/home/andrey/dev/testFixture/temp/CMakeFiles/rebuild_cache.dir
+/home/andrey/dev/testFixture/temp/CMakeFiles/runTests.dir
+/home/andrey/dev/testFixture/temp/CMakeFiles/whattotest.dir
